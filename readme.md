@@ -21,7 +21,7 @@ console.log(Array.isArray(data));
 
 ### Storage
 
-This module exports the safe localStorage, sessionStorage with API identical to browser's.
+This module exports the safe **localStorage**, **sessionStorage** with API identical to browser's.
 
 ### JSONStorage(storage)
 
