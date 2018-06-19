@@ -1,0 +1,27 @@
+{
+  "name": "uc-storage",
+  "version": "1.0.0",
+  "description": "Local and session storage with JSON support",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/unchainedui/storage.git"
+  },
+  "keywords": [
+    "unchained",
+    "ui",
+    "browser",
+    "storage",
+    "json",
+    "kiss"
+  ],
+  "author": "Alexey Novikov <v@2dubs.com> (http://2dubs.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/unchainedui/storage/issues"
+  },
+  "homepage": "https://github.com/unchainedui/storage#readme"
+}
