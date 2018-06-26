@@ -2,6 +2,9 @@
 
 ## Storage
 
+[![NPM Version](https://img.shields.io/npm/v/uc-storage.svg?style=flat-square)](https://www.npmjs.com/package/uc-storage)
+[![NPM Downloads](https://img.shields.io/npm/dt/uc-storage.svg?style=flat-square)](https://www.npmjs.com/package/uc-storage)
+
 Local and session storage with JSON support
 
 ### Usage
